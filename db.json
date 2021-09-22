@@ -6,5 +6,44 @@
     "last_name": "Morrow",
     "profile_pic": "https://wallpaperaccess.com/full/2213424.jpg",
     "phone_number": 9080908090
+  },
+  "categories":[
+    {
+      "id": 1,
+      "caategory_title": "Category One",
+      "img":""
+    },
+    {
+      "id": 2,
+      "caategory_title": "Category Two",
+      "img":""
+    },
+    {
+      "id": 3,
+      "caategory_title": "Category Three",
+      "img":""
+    }
+  ],
+  "articles":[
+    {
+    "id": 1,
+    "title": "Article 1",
+    "time":"10 hours ago",
+    "img": ""
+  },
+  {
+    "id": 2,
+    "title": "Article 2",
+    "time":"8 hours ago",
+    "img": ""
+  },
+  {
+    "id": 3,
+    "title": "Article 3",
+    "time":"10 hours ago",
+    "img": ""
   }
+]
+
+
   }
