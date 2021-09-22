@@ -1,5 +1,5 @@
 {
-  "user":[
+  "user":
     {
     "id": 12345,
     "first_name": "Jackson",
@@ -7,5 +7,4 @@
     "profile_pic": "https://wallpaperaccess.com/full/2213424.jpg",
     "phone_number": 9080908090
   }
-]
   }
