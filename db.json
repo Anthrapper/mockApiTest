@@ -17,14 +17,14 @@
     },
     {
       "id": 2,
-      "caategory_title": "Category Two",
+      "category_title": "Category Two",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Scelerisque imperdiet nec amet, phasellus id nunc. Cursus tristique lobortis morbi tristique sapien ac curabitur at aliquam. Feugiat non amet, tincidunt justo, iaculis id egestas. Odio tortor massa luctus sed. Purus, dictum ut consequat diam. Nec aliquet leo volutpat, lobortis. Scelerisque imperdiet nec amet, phasellus id nunc. Cursus tristique lobortis morbi tristique sapien ac curabitur at aliquam.",
       "address":"address",
       "img":""
     },
     {
       "id": 3,
-      "caategory_title": "Category Three",
+      "category_title": "Category Three",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Scelerisque imperdiet nec amet, phasellus id nunc. Cursus tristique lobortis morbi tristique sapien ac curabitur at aliquam. Feugiat non amet, tincidunt justo, iaculis id egestas. Odio tortor massa luctus sed. Purus, dictum ut consequat diam. Nec aliquet leo volutpat, lobortis. Scelerisque imperdiet nec amet, phasellus id nunc. Cursus tristique lobortis morbi tristique sapien ac curabitur at aliquam.",
       "address":"address",
       "img":""
