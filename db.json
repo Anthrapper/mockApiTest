@@ -58,15 +58,15 @@
     "id": 1,
     "name": "Dr. L. K. Shey",
     "description": "Some background information",
-    "img":"",
+    "img":"https://images.theconversation.com/files/304957/original/file-20191203-66986-im7o5.jpg",
     "rating":"4",
     "experience":"10 years"
   },
   {
     "id": 2,
-    "name": "Dr. L. K. ey",
+    "name": "Dr. L. K. Shey",
     "description": "Some background information",
-    "img":"",
+    "img":"https://st.depositphotos.com/1743476/1266/i/600/depositphotos_12660351-stock-photo-satisfied-smiling-mature-doctor.jpg",
     "rating":"2",
     "experience":"0 years"
   },
@@ -74,7 +74,7 @@
     "id": 3,
     "name": "Dr. L. K. ey",
     "description": "Some background information",
-    "img":"",
+    "img":"https://www.guelphfht.com/wp-content/uploads/2015/09/Female-Doctor.jpg",
     "rating":"5",
     "experience":"2 years"
   }
