@@ -56,6 +56,8 @@
 "doctors":[
   {
     "id": 1,
+    "service":"Service 1",
+    "location":"Location 1",
     "name": "Dr. L. K. Shey",
     "description": "Some background information",
     "img":"https://images.theconversation.com/files/304957/original/file-20191203-66986-im7o5.jpg",
@@ -64,6 +66,8 @@
   },
   {
     "id": 2,
+    "service":"Service 2",
+    "location":"Location 2",
     "name": "Dr. L. K. Shey",
     "description": "Some background information",
     "img":"https://i.pinimg.com/736x/1a/ac/b7/1aacb718f4086c68ed9c47cd26a2b032.jpg",
@@ -72,6 +76,8 @@
   },
   {
     "id": 3,
+    "service":"Service 3",
+    "location":"Location 3",
     "name": "Dr. L. K. ey",
     "description": "Some background information",
     "img":"https://www.guelphfht.com/wp-content/uploads/2015/09/Female-Doctor.jpg",
