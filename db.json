@@ -52,7 +52,32 @@
     "img": "",
     "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Scelerisque imperdiet nec amet, phasellus id nunc. Cursus tristique lobortis morbi tristique sapien ac curabitur at aliquam. Feugiat non amet, tincidunt justo, iaculis id egestas. Odio tortor massa luctus sed. Purus, dictum ut consequat diam. Nec aliquet leo volutpat, lobortis. Scelerisque imperdiet nec amet, phasellus id nunc. Cursus tristique lobortis morbi tristique sapien ac curabitur at aliquam."
   }
+],
+"doctors":[
+  {
+    "id": 1,
+    "name": "Dr. L. K. Shey",
+    "description": "Some background information",
+    "img":"",
+    "rating":"4",
+    "experience":"10 years"
+  },
+  {
+    "id": 2,
+    "name": "Dr. L. K. ey",
+    "description": "Some background information",
+    "img":"",
+    "rating":"2",
+    "experience":"0 years"
+  },
+  {
+    "id": 3,
+    "name": "Dr. L. K. ey",
+    "description": "Some background information",
+    "img":"",
+    "rating":"5",
+    "experience":"2 years"
+  }
 ]
-
 
   }
